@@ -1,6 +1,6 @@
 #include <iostream>
 
-class Record {   
+class Lib {   
 public:
-    Record();
+    Lib();
 };    
