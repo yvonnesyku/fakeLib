@@ -1,5 +1,5 @@
 #include "lib.hpp"
 
 Lib::Lib() {
-    std::cout << "Lib version 1" << std::endl;
+    std::cout << "Using library version 1" << std::endl;
 }
